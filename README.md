@@ -20,7 +20,13 @@ SVM & KNN & Bayes classifier
  ```
 1- Install the above dependencies
 
-2- Open PyCharm
+2- Open PyCharm or any IDE 
 
-3- Run the code in the PyCharm Environment
+3- Install git to clone the project
+
+4- Put the file named "data.csv" in the main folder of the project
+
+5- install jubyter by running "pip install jupyter" in the terminal
+
+6- run "jupyter notebook" in the terminal, and it will redirect you to run the notebook
 ```
